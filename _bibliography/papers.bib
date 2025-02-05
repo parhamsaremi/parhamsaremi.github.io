@@ -3,31 +3,37 @@
   favero2025conditional,
   title={Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free},
   author={Parham Saremi* and Gian Mario Favero* and Emily Kaczmarek and Brennan Nichyporuk and Tal Arbel},
+  abstract={Discriminative classifiers have become a foundational tool in deep learning for medical imaging, excelling at learning separable features of complex data distributions. However, these models often need careful design, augmentation, and training techniques to ensure safe and reliable deployment. Recently, diffusion models have become synonymous with generative modeling in 2D. These models showcase robustness across a range of tasks including natural image classification, where classification is performed by comparing reconstruction errors across images generated for each possible conditioning input. This work presents the first exploration of the potential of class conditional diffusion models for 2D medical image classification. First, we develop a novel majority voting scheme shown to improve the performance of medical diffusion classifiers. Next, extensive experiments on the CheXpert and ISIC Melanoma skin cancer datasets demonstrate that foundation and trained-from-scratch diffusion models achieve competitive performance against SOTA discriminative classifiers without the need for explicit supervision. In addition, we show that diffusion classifiers are intrinsically explainable, and can be used to quantify the uncertainty of their predictions, increasing their trustworthiness and reliability in safety-critical, clinical contexts. Further information is available on our project page: https://faverogian.github.io/med-diffusion-classifier.github.io/.},
   booktitle={Submitted to Medical Imaging with Deep Learning},
   year={2025},
   url={https://openreview.net/forum?id=3LySEy7MR3},
-  abbr={In Review: MIDL}
+  abbr={In Review: MIDL},
+  website={https://faverogian.github.io/med-diffusion-classifier.github.io/}
 }
 
 @article{saadatnejad2024toward,
   title={Toward reliable human pose forecasting with uncertainty},
   author={Saeed Saadatnejad and Mehrshad Mirmohammadi* and Parham Saremi* and Matin Daghyani* and Yashar Zoroofchi Benisi* and Amirhossein Alimohammadi* and Zahra Tehraninasab* and Taylor Mordan and Alexandre Alahi},
   journal={IEEE Robotics and Automation Letters},
+  abstract={Recently, there has been an arms race of pose forecasting methods aimed at solving the spatio-temporal task of predicting a sequence of future 3D poses of a person given a sequence of past observed ones. However, the lack of unified benchmarks and limited uncertainty analysis have hindered progress in the field. To address this, we first develop an open-source library for human pose forecasting, including multiple models, supporting several datasets, and employing standardized evaluation metrics, with the aim of promoting research and moving toward a unified and consistent evaluation.Second, we devise two types of uncertainty in the problem to increase performance and convey better trust: 1) we propose a method for modeling aleatoric uncertainty by using uncertainty priors to inject knowledge about the pattern of uncertainty. This focuses the capacity of the model in the direction of more meaningful supervision while reducing the number of learned parameters and improving stability; 2) we introduce a novel approach for quantifying the epistemic uncertainty of any model through clustering and measuring the entropy of its assignments. Our experiments demonstrate up to 25% improvements in forecasting at short horizons, with no loss on longer horizons on Human3.6 M, AMSS, and 3DPW datasets, and better performance in uncertainty estimation. The code is available online.}
   year={2024},
   publisher={IEEE},
   url={https://ieeexplore.ieee.org/abstract/document/10461031},
   code={https://github.com/vita-epfl/UnPOSed},
   arxiv={https://arxiv.org/abs/2304.06707},
-  abbr={IEEE RAL}
+  abbr={IEEE RAL},
+  preview={epfl-project.png}
 }
 
 @InProceedings{Mirmohammadi_2023_ICCV,
     author    = {Mirmohammadi, Mehrshad and Saremi, Parham and Kuo, Yen-Ling and Wang, Xi},
     title     = {Reconstruction of 3D Interaction Models from Images Using Shape Prior},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    abstract = {We investigate the reconstruction of 3D human-object interactions from images, encompassing 3D human shape and pose estimation as well as object shape and pose estimation. To address this task, we introduce an autoregressive transformer-based variational autoencoder capable of learning a robust shape prior from extensive 3D shape datasets. Additionally, we leverage the reconstructed 3D human body as supplementary features for object shape and pose estimation. In contrast, prior methods only predict object pose and rely on shape templates for shape prediction. Experimental findings on the BEHAVE dataset underscore the effectiveness of our proposed approach, achieving a 40.7 cm Chamfer distance and demonstrating the advantages of learning a shape prior.},
     month     = {October},
     year      = {2023},
     pages     = {2141-2147},
-    url = {https://openaccess.thecvf.com/content/ICCV2023W/R6D/html/Mirmohammadi_Reconstruction_of_3D_Interaction_Models_from_Images_Using_Shape_Prior_ICCVW_2023_paper.html},
-    abbr={ICCV Workshops}
+    html = {https://openaccess.thecvf.com/content/ICCV2023W/R6D/html/Mirmohammadi_Reconstruction_of_3D_Interaction_Models_from_Images_Using_Shape_Prior_ICCVW_2023_paper.html},
+    abbr={ICCV Workshops},
+    preview={eth-project.png}
 }

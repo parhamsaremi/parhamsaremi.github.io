@@ -117,26 +117,10 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "Towards Reliable Human Pose Forecasting with Uncertainty",
-      "publisher": "IEEE RA-L",
-      "url": "https://ieeexplore.ieee.org/document/10461031"
-    },
-    {
-      "name": "Reconstruction of 3D Interaction Models from Images using Shape Prior",
-      "publisher": "ICCV 2023 R6D Workshop",
-      "url": "https://openaccess.thecvf.com/content/ICCV2023W/R6D/papers/Mirmohammadi_Reconstruction_of_3D_Interaction_Models_from_Images_Using_Shape_Prior_ICCVW_2023_paper.pdf"
-    }
-  ],
   "skills": [
     {
       "name": "Machine Learning",
-      "keywords": ["Python", "PyTorch", "Numpy", "Scikit-learn"]
-    },
-    {
-      "name": "Computer Vision",
-      "keywords": ["OpenCV", "Deep Learning", "Object Detection"]
+      "keywords": ["PyTorch", "Numpy", "Diffusion Models", "Generative Models"]
     },
     {
       "name": "Programming",
