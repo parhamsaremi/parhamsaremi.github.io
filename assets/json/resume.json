@@ -4,47 +4,28 @@
     "label": "MSc Student at Mila | McGill University",
     "image": "",
     "email": "parham.saremi@mail.mcgill.ca",
-    "url": "https://parhamsaremi.github.io/",
-    "summary": "Graduate student at Mila and McGill University supervised by Prof. Tal Arbel, with research interests in medical imaging, generative modeling, and computer vision.",
-    "location": {
-      "address": "6666 rue Saint-Urbain",
-      "postalCode": "H2S 3H1",
-      "city": "Montreal",
-      "countryCode": "CA",
-      "region": "Quebec"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Parham Saremi",
-        "url": "https://www.linkedin.com/in/parhamsaremi/"
-      }
-    ]
+    "summary": "Graduate student at Mila and McGill University supervised by Prof. Tal Arbel, with research interests in computer vision, generative modeling, and medical imaging."
   },
   "education": [
     {
-      "institution": "McGill University",
+      "institution": "McGill University | Mila",
       "url": "https://www.mcgill.ca/",
       "area": "Electrical and Computer Engineering",
-      "studyType": "M.Sc.",
+      "studyType": "Master of Science",
       "startDate": "2024-05-01",
-      "endDate": "2026-04-01"
+      "endDate": "2026-04-01",
+      "location": "Montreal, Canada",
+      "score": "4.0"
     },
     {
       "institution": "Sharif University of Technology",
       "url": "https://www.sharif.edu/",
       "area": "Computer Engineering",
-      "studyType": "B.Sc.",
+      "studyType": "Bachelor of Science",
       "startDate": "2018-09-01",
       "endDate": "2023-06-01",
-      "score": "Overall GPA: 18.70/20, Major GPA: 19.15/20"
-    },
-    {
-      "institution": "National Organization for Development of Exceptional Talents (Sampad)",
-      "area": "Mathematics",
-      "studyType": "High School Diploma",
-      "startDate": "2014-09-01",
-      "endDate": "2018-06-01"
+      "score": "Overall GPA: 18.70/20, Major GPA: 19.15/20",
+      "location": "Tehran, Iran"
     }
   ],
   "work": [
@@ -72,7 +53,7 @@
     },
     {
       "name": "EPFL - École polytechnique fédérale de Lausanne",
-      "position": "Undergraduate Research Assistant",
+      "position": "Research Intern",
       "url": "https://www.epfl.ch/en/",
       "startDate": "2021-12-01",
       "endDate": "2022-07-01",
@@ -88,10 +69,9 @@
       "url": "https://uci.edu/",
       "startDate": "2021-11-01",
       "endDate": "2022-07-01",
-      "summary": "Joint research with UC Irvine and Sharif University on region prediction using multimodal data.",
+      "summary": "Joint research with UC Irvine and Sharif University on cuisine prediction using multimodal data.",
       "highlights": [
-        "Developed a Transformer-based model for region prediction combining visual and text-based features.",
-        "Experimented with various GNN and Transformer architectures."
+        "Developed a Transformer-based model for cuisine prediction combining visual and text-based features."
       ]
     },
     {
@@ -132,24 +112,6 @@
       "title": "Top 0.1% in Iranian Nationwide University Entrance Exam",
       "year": "2018",
       "summary": "Ranked 115th among 140,000+ participants in the Mathematics and Physics Discipline."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Single Cell Representation Learning",
-      "summary": "Implemented SimCLR, BYOL, MOBY, and MOCO for contrastive learning on single-cell images (BBBC021, BBBC022 datasets)."
-    },
-    {
-      "name": "PosePred",
-      "summary": "Developed a human pose prediction library with multiple deep learning models and datasets, improving the training pipeline."
-    },
-    {
-      "name": "Recommender System",
-      "summary": "Developed and deployed a recommender system using MLFlow for tracking and visualizing model performance."
-    },
-    {
-      "name": "Computer Vision Implementations",
-      "summary": "Implemented classic and modern CV methods, including Harris Edge Detector, RANSAC for homography, HoG for face detection, and AlexNet for scene recognition."
     }
   ],
   "languages": [
