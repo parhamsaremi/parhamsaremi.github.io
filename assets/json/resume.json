@@ -4,7 +4,10 @@
     "label": "MSc Student at Mila | McGill University",
     "image": "",
     "email": "parham.saremi@mail.mcgill.ca",
-    "summary": "Graduate student at Mila and McGill University supervised by Prof. Tal Arbel, with research interests in computer vision, generative modeling, and medical imaging."
+    "summary": "Graduate student at Mila and McGill University supervised by Prof. Tal Arbel, with research interests in computer vision, generative modeling, and medical imaging.",
+    "linkedin": "https://linkedin.com/in/parhamsaremi",
+    "github": "https://github.com/parhamsaremi",
+    "scholar": "https://scholar.google.com/citations?user=FXXdVhIAAAAJ"
   },
   "education": [
     {
@@ -13,7 +16,6 @@
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Science",
       "startDate": "2024-05-01",
-      "endDate": "2026-04-01",
       "location": "Montreal, Canada",
       "score": "4.0"
     },
@@ -24,87 +26,91 @@
       "studyType": "Bachelor of Science",
       "startDate": "2018-09-01",
       "endDate": "2023-06-01",
-      "score": "Overall GPA: 18.70/20, Major GPA: 19.15/20",
-      "location": "Tehran, Iran"
+      "location": "Tehran, Iran",
+      "score": "Overall GPA: 18.70/20, Major GPA: 19.15/20"
     }
   ],
   "work": [
     {
       "name": "Mila - Quebec Artificial Intelligence Institute",
-      "position": "Graduate Research Assistant",
+      "position": "Graduate Research Student",
       "url": "https://mila.quebec/en/",
       "startDate": "2024-05-01",
+      "location": "Montreal, Canada",
       "summary": "Conducting research in medical imaging and generative modeling under the supervision of Prof. Tal Arbel.",
       "highlights": [
-        "Exploring representation learning and generative modeling techniques for medical imaging applications."
+        "Working on Diffusion Models for explainability and uncertainty quantification in medical images."
       ]
     },
     {
-      "name": "ETH Zürich",
+      "name": "ETH Zürich – AIT Lab",
       "position": "Research Intern",
       "url": "https://ethz.ch/en.html",
       "startDate": "2022-07-01",
       "endDate": "2023-07-01",
-      "summary": "Worked on 3D reconstruction of human-object interactions from single monocular images.",
+      "location": "Zurich, Switzerland (Remote)",
+      "summary": "Designed and implemented pipelines to generate 3D human and object models from single images while reasoning about their interaction.",
       "highlights": [
-        "Designed and implemented a pipeline integrating Pixel-aligned Implicit Functions, Vector Quantized-VAE, and Autoregressive Transformers.",
-        "Implemented the majority of the pipeline using Python and PyTorch."
+        "Used the decoder of a pre-trained VQ-VAE model to generate object meshes from images."
       ]
     },
     {
-      "name": "EPFL - École polytechnique fédérale de Lausanne",
+      "name": "Node Effect",
+      "position": ".NET Developer (Part-time)",
+      "location": "Hong Kong SAR (Remote)",
+      "startDate": "2022-07-01",
+      "endDate": "2023-09-01",
+      "summary": "Contributed to open-source projects and worked on Bitcoin Lightning-related projects.",
+      "highlights": [
+        "Developed a MAUI-based application (C#) and contributed to the MAUI Linux project."
+      ]
+    },
+    {
+      "name": "EPFL – VITA Lab",
       "position": "Research Intern",
       "url": "https://www.epfl.ch/en/",
       "startDate": "2021-12-01",
       "endDate": "2022-07-01",
-      "summary": "Worked on human pose prediction with uncertainty modeling.",
+      "location": "Lausanne, Switzerland (Remote)",
+      "summary": "Developed and maintained UnPOSed, an open-source toolbox for forecasting a sequence of human pose in future.",
       "highlights": [
-        "Developed a method that improved human pose prediction models by 2-5% across different datasets.",
-        "Implemented and maintained a deep learning library for human motion prediction."
+        "Designed and evaluated a method for human motion prediction that improved results of various SOTA models by 2-5% across multiple datasets."
       ]
     },
     {
-      "name": "UC Irvine",
-      "position": "Research Collaborator",
+      "name": "University of California Irvine & Sharif University of Technology",
+      "position": "Research Collaborator – B.Sc. Project",
       "url": "https://uci.edu/",
       "startDate": "2021-11-01",
       "endDate": "2022-07-01",
-      "summary": "Joint research with UC Irvine and Sharif University on cuisine prediction using multimodal data.",
+      "location": "Tehran, Iran",
+      "summary": "Worked with vision-language models on a joint research project for my BSc thesis.",
       "highlights": [
-        "Developed a Transformer-based model for cuisine prediction combining visual and text-based features."
+        "Designed and developed a multimodal model using GNNs and Transformers to predict cuisine using ingredient information and recipes."
       ]
     },
     {
       "name": "Imperial College London",
-      "position": "Summer Research Intern",
+      "position": "Research Intern",
       "url": "https://www.imperial.ac.uk/",
       "startDate": "2021-07-01",
       "endDate": "2021-10-01",
-      "summary": "Worked on neural network verification.",
-      "highlights": [
-        "Investigated novel methods for neural network verification under the supervision of Prof. Alessio Lomuscio."
-      ]
-    },
-    {
-      "name": "CommaMed (formerly AIMed)",
-      "position": "Medical Imaging Research Intern",
-      "url": "",
-      "startDate": "2023-03-01",
-      "endDate": "2023-06-01",
-      "summary": "Worked on preprocessing methods for the DDSM breast cancer dataset to enhance image quality.",
-      "highlights": [
-        "Implemented preprocessing techniques to improve tumor visibility in medical images."
-      ]
+      "location": "London, England (Remote)",
+      "summary": "Investigated and experimented with new methods for the verification of Neural Networks."
     }
   ],
   "skills": [
     {
       "name": "Machine Learning",
-      "keywords": ["PyTorch", "Numpy", "Diffusion Models", "Generative Models"]
+      "keywords": ["Python", "PyTorch", "PyTorch3D", "Numpy", "Pandas", "Scikit-learn", "Matplotlib", "HuggingFace"]
     },
     {
       "name": "Programming",
-      "keywords": ["Python", "C/C++", "Java", "Django", "F#", "Node.js"]
+      "keywords": ["Python", "C/C++", "Java", "C#", "F#"]
+    },
+    {
+      "name": "Other",
+      "keywords": ["Linux", "Git", "GitHub", "LaTeX", "Excel"]
     }
   ],
   "honors": [
