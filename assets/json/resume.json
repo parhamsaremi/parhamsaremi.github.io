@@ -104,12 +104,8 @@
       "keywords": ["Python", "PyTorch", "PyTorch3D", "Numpy", "Pandas", "Scikit-learn", "Matplotlib", "HuggingFace"]
     },
     {
-      "name": "Programming",
-      "keywords": ["Python", "C/C++", "Java", "C#", "F#"]
-    },
-    {
       "name": "Other",
-      "keywords": ["Linux", "Git", "GitHub", "LaTeX", "Excel"]
+      "keywords": ["Linux", "Git", "GitHub", "C/C++", "Java", "C#", "F#", "LaTeX", "Excel"]
     }
   ],
   "honors": [
@@ -122,7 +118,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent (TOEFL 111: R29, L30, S24, W28)"
+      "fluency": "Fluent (TOEFL 111)"
     },
     {
       "language": "Persian",
