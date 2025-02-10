@@ -48,21 +48,21 @@
       "url": "https://ethz.ch/en.html",
       "startDate": "2022-07-01",
       "endDate": "2023-07-01",
-      "location": "Zurich, Switzerland (Remote)",
-      "summary": "Designed and implemented pipelines to generate 3D human and object models from single images while reasoning about their interaction.",
+      "summary": "Worked as a research intern on Human-Object Interaction and 3D reconstruction.",
       "highlights": [
+        "Designed and implemented pipelines to generate 3D human and object models from single images while reasoning about their interaction.",
         "Used the decoder of a pre-trained VQ-VAE model to generate object meshes from images."
       ]
     },
     {
       "name": "Node Effect",
       "position": ".NET Developer (Part-time)",
-      "location": "Hong Kong SAR (Remote)",
       "startDate": "2022-07-01",
       "endDate": "2023-09-01",
-      "summary": "Contributed to open-source projects and worked on Bitcoin Lightning-related projects.",
+      "summary": "Worked as a .Net developer and contributed to C# and F# open-source projects.",
       "highlights": [
-        "Developed a MAUI-based application (C#) and contributed to the MAUI Linux project."
+        "Developed a MAUI-based application (C#) and contributed to the MAUI Linux project.",
+        "worked on Bitcoin Lightning-related projects."
       ]
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://www.epfl.ch/en/",
       "startDate": "2021-12-01",
       "endDate": "2022-07-01",
-      "location": "Lausanne, Switzerland (Remote)",
-      "summary": "Developed and maintained UnPOSed, an open-source toolbox for forecasting a sequence of human pose in future.",
+      "summary": "Worekd as a researh intern on Human Pose Forecasting.",
       "highlights": [
+        "Developed and maintained UnPOSed, an open-source toolbox for forecasting a sequence of human pose in future.",
         "Designed and evaluated a method for human motion prediction that improved results of various SOTA models by 2-5% across multiple datasets."
       ]
     },
@@ -83,9 +83,9 @@
       "url": "https://uci.edu/",
       "startDate": "2021-11-01",
       "endDate": "2022-07-01",
-      "location": "Tehran, Iran",
-      "summary": "Worked with vision-language models on a joint research project for my BSc thesis.",
+      "summary": "Joint reserach project between UCI and Sharif University of Technology for my B.Sc. thesis.",
       "highlights": [
+        "Worked with vision-language models, Transforemrs, and Graph Neural Networks.",
         "Designed and developed a multimodal model using GNNs and Transformers to predict cuisine using ingredient information and recipes."
       ]
     },
@@ -95,7 +95,6 @@
       "url": "https://www.imperial.ac.uk/",
       "startDate": "2021-07-01",
       "endDate": "2021-10-01",
-      "location": "London, England (Remote)",
       "summary": "Investigated and experimented with new methods for the verification of Neural Networks."
     }
   ],
