@@ -29,6 +29,17 @@
   ],
   "work": [
     {
+      "name": "ServiceNow Research",
+      "position": "Visiting Researcher",
+      "url": "",
+      "startDate": "2025-10-27",
+      "location": "Montreal, Canada",
+      "summary": "Conducting research in Diffusion Language Models.",
+      "highlights": [
+        "Working on Reinforcement Learning for fine-tuning Diffusion Language Models."
+      ]
+    },
+    {
       "name": "Mila - Quebec Artificial Intelligence Institute",
       "position": "Graduate Research Student",
       "url": "https://mila.quebec/en/",
