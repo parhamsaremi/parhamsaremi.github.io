@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-16'
 papers:
   FXXdVhIAAAAJ:2osOgNQ5qMEC:
     citations: 13
@@ -10,11 +10,11 @@ papers:
     title: Reconstruction of 3D interaction models from images using shape prior
     year: '2023'
   FXXdVhIAAAAJ:IjCSPb-OGe4C:
-    citations: 7
+    citations: 8
     title: Conditional diffusion models are medical image classifiers that provide explainability and uncertainty for free
     year: '2025'
   FXXdVhIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: 'RL4Med-DDPO: reinforcement learning for controlled guidance towards diverse medical image generation using vision-language foundation models'
     year: '2025'
   FXXdVhIAAAAJ:W7OEmFMy1HYC:
