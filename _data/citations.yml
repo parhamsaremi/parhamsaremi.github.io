@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-22'
 papers:
   FXXdVhIAAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 15
     title: Toward reliable human pose forecasting with uncertainty
     year: '2024'
   FXXdVhIAAAAJ:9yKSN-GCB0IC:
@@ -19,5 +19,5 @@ papers:
     year: '2025'
   FXXdVhIAAAAJ:W7OEmFMy1HYC:
     citations: 1
-    title: Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation
+    title: Discovering latent graphs with gflownets for diverse conditional image generation
     year: '2025'
