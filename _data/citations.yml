@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-24'
 papers:
   FXXdVhIAAAAJ:2osOgNQ5qMEC:
-    citations: 15
+    citations: 16
     title: Toward reliable human pose forecasting with uncertainty
     year: '2024'
   FXXdVhIAAAAJ:9yKSN-GCB0IC:
@@ -10,11 +10,11 @@ papers:
     title: Reconstruction of 3D interaction models from images using shape prior
     year: '2023'
   FXXdVhIAAAAJ:IjCSPb-OGe4C:
-    citations: 10
+    citations: 11
     title: Conditional diffusion models are medical image classifiers that provide explainability and uncertainty for free
     year: '2025'
   FXXdVhIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
+    citations: 8
     title: 'RL4Med-DDPO: reinforcement learning for controlled guidance towards diverse medical image generation using vision-language foundation models'
     year: '2025'
   FXXdVhIAAAAJ:W7OEmFMy1HYC:
