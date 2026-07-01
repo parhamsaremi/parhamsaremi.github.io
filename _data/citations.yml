@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-01'
 papers:
   FXXdVhIAAAAJ:2osOgNQ5qMEC:
     citations: 16
@@ -19,5 +19,5 @@ papers:
     year: '2025'
   FXXdVhIAAAAJ:W7OEmFMy1HYC:
     citations: 1
-    title: Discovering latent graphs with gflownets for diverse conditional image generation
+    title: Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation
     year: '2025'
