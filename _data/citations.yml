@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-07'
 papers:
   FXXdVhIAAAAJ:2osOgNQ5qMEC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: Conditional diffusion models are medical image classifiers that provide explainability and uncertainty for free
     year: '2025'
   FXXdVhIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 9
+    citations: 10
     title: 'RL4Med-DDPO: reinforcement learning for controlled guidance towards diverse medical image generation using vision-language foundation models'
     year: '2025'
   FXXdVhIAAAAJ:W7OEmFMy1HYC:
